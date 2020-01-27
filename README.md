@@ -4,3 +4,4 @@ Problems solved so far:
 - Problem #2: Even Fibonacci numbers
 - Problem #3: Largest prime factor
 - Problem #4: Largest palindrome product
+- Problem #5: Smallest multiple
