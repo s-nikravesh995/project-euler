@@ -5,3 +5,5 @@ Problems solved so far:
 - Problem #3: Largest prime factor
 - Problem #4: Largest palindrome product
 - Problem #5: Smallest multiple
+- Problem #6: Sum square difference
+- Problem #7: 10001st prime
